@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# React CRUD TODO Apps
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+The backend can be found on this repo. 
+https://github.com/alfrcr/node-gql
+
+## How to install
+- Clone repository
+- Run `yarn install`
+- Change `REACT_APP_BASE_API` value in file `.env` to your backend URL
+- Run `yarn start`
 
 ## Available Scripts
 
